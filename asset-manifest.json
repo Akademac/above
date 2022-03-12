@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Akademac/Above/static/css/main.846abdbe.css",
-    "main.js": "/Akademac/Above/static/js/main.79cc6d43.js",
+    "main.js": "/Akademac/Above/static/js/main.862818b6.js",
     "static/media/about_page_video.mp4": "/Akademac/Above/static/media/about_page_video.c5892e53871ad08f0f9b.mp4",
     "static/media/crew_page_video.mp4": "/Akademac/Above/static/media/crew_page_video.3dfebc4fd69c78537ff3.mp4",
     "static/media/fifth_div.png": "/Akademac/Above/static/media/fifth_div.8d7c305f900eacb2386d.png",
@@ -20,10 +20,10 @@
     "static/media/txtImg_6.png": "/Akademac/Above/static/media/txtImg_6.428b0aabc65269d060c3.png",
     "index.html": "/Akademac/Above/index.html",
     "main.846abdbe.css.map": "/Akademac/Above/static/css/main.846abdbe.css.map",
-    "main.79cc6d43.js.map": "/Akademac/Above/static/js/main.79cc6d43.js.map"
+    "main.862818b6.js.map": "/Akademac/Above/static/js/main.862818b6.js.map"
   },
   "entrypoints": [
     "static/css/main.846abdbe.css",
-    "static/js/main.79cc6d43.js"
+    "static/js/main.862818b6.js"
   ]
 }
