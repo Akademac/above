@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/above1/static/css/main.bcd93551.css",
-    "main.js": "/above1/static/js/main.792f230f.js",
-    "static/media/about_page_video.mp4": "/above1/static/media/about_page_video.c5892e53871ad08f0f9b.mp4",
-    "static/media/crew_page_video.mp4": "/above1/static/media/crew_page_video.3dfebc4fd69c78537ff3.mp4",
-    "static/media/fifth_div.png": "/above1/static/media/fifth_div.8d7c305f900eacb2386d.png",
-    "static/media/kepler_mainImg.png": "/above1/static/media/kepler_mainImg.aa7dd6d9e4967c401f78.png",
-    "static/media/crew_1.jpg": "/above1/static/media/crew_1.8d19d633cbdd20b35d1f.jpg",
-    "static/media/txtImg_3.png": "/above1/static/media/txtImg_3.a65cc2e475ef43063018.png",
-    "static/media/keplerImg_5.jpg": "/above1/static/media/keplerImg_5.f7cd8513558642a60cf2.jpg",
-    "static/media/astronaut.jpg": "/above1/static/media/astronaut.c856f318090805d7ea2b.jpg",
-    "static/media/keplerImg_1.jpg": "/above1/static/media/keplerImg_1.628b9d2a3a0471da9eda.jpg",
-    "static/media/keplerImg_2.jpg": "/above1/static/media/keplerImg_2.2fbd84ec4d25c56a652e.jpg",
-    "static/media/keplerImg_4.jpg": "/above1/static/media/keplerImg_4.cb605219ea39b2d94b14.jpg",
-    "static/media/mainLogo.png": "/above1/static/media/mainLogo.349b766db8851e43c5a7.png",
-    "static/media/keplerImg_6.jpg": "/above1/static/media/keplerImg_6.7266d03e44d3a1becc23.jpg",
-    "static/media/keplerImg_7.jpg": "/above1/static/media/keplerImg_7.af6a5d7a8786ae208af8.jpg",
-    "static/media/keplerImg_3.jpg": "/above1/static/media/keplerImg_3.6f240742acb45e9cc7fe.jpg",
-    "static/media/txtImg_6.png": "/above1/static/media/txtImg_6.428b0aabc65269d060c3.png",
-    "index.html": "/above1/index.html",
-    "main.bcd93551.css.map": "/above1/static/css/main.bcd93551.css.map",
-    "main.792f230f.js.map": "/above1/static/js/main.792f230f.js.map"
+    "main.css": "/above/static/css/main.5a8d4258.css",
+    "main.js": "/above/static/js/main.a6ce7a4a.js",
+    "static/media/about_page_video.mp4": "/above/static/media/about_page_video.c5892e53871ad08f0f9b.mp4",
+    "static/media/crew_page_video.mp4": "/above/static/media/crew_page_video.3dfebc4fd69c78537ff3.mp4",
+    "static/media/fifth_div.png": "/above/static/media/fifth_div.8d7c305f900eacb2386d.png",
+    "static/media/kepler_mainImg.png": "/above/static/media/kepler_mainImg.aa7dd6d9e4967c401f78.png",
+    "static/media/crew_1.jpg": "/above/static/media/crew_1.8d19d633cbdd20b35d1f.jpg",
+    "static/media/txtImg_3.png": "/above/static/media/txtImg_3.a65cc2e475ef43063018.png",
+    "static/media/keplerImg_5.jpg": "/above/static/media/keplerImg_5.f7cd8513558642a60cf2.jpg",
+    "static/media/astronaut.jpg": "/above/static/media/astronaut.c856f318090805d7ea2b.jpg",
+    "static/media/keplerImg_1.jpg": "/above/static/media/keplerImg_1.628b9d2a3a0471da9eda.jpg",
+    "static/media/keplerImg_2.jpg": "/above/static/media/keplerImg_2.2fbd84ec4d25c56a652e.jpg",
+    "static/media/keplerImg_4.jpg": "/above/static/media/keplerImg_4.cb605219ea39b2d94b14.jpg",
+    "static/media/mainLogo.png": "/above/static/media/mainLogo.349b766db8851e43c5a7.png",
+    "static/media/keplerImg_6.jpg": "/above/static/media/keplerImg_6.7266d03e44d3a1becc23.jpg",
+    "static/media/keplerImg_7.jpg": "/above/static/media/keplerImg_7.af6a5d7a8786ae208af8.jpg",
+    "static/media/keplerImg_3.jpg": "/above/static/media/keplerImg_3.6f240742acb45e9cc7fe.jpg",
+    "static/media/txtImg_6.png": "/above/static/media/txtImg_6.428b0aabc65269d060c3.png",
+    "index.html": "/above/index.html",
+    "main.5a8d4258.css.map": "/above/static/css/main.5a8d4258.css.map",
+    "main.a6ce7a4a.js.map": "/above/static/js/main.a6ce7a4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcd93551.css",
-    "static/js/main.792f230f.js"
+    "static/css/main.5a8d4258.css",
+    "static/js/main.a6ce7a4a.js"
   ]
 }
